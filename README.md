@@ -178,7 +178,7 @@ Tigris 现有**正式 APK** 要求 Android 9 / API 28 或更高，不能安装�
 安装说明：
 https://github.com/lesnolie/Tigris/blob/main/AGENTS.md
 打不开时：
-https://raw.githubusercontent.com/lesnolie/Tigris/main/AGENTS.md
+https://gh.dpik.top/https://raw.githubusercontent.com/lesnolie/Tigris/main/AGENTS.md
 
 请先完整阅读安装说明，再在我的电脑上亲自运行命令，不要只把步骤告诉我。
 需要我在电视上操作时请提醒我。
